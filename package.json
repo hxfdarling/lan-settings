@@ -1,6 +1,6 @@
 {
   "name": "proxy-settings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "proxy settings",
   "main": "./lib/index.js",
   "types": "./index.d.ts",
@@ -18,6 +18,11 @@
     "settings",
     "pac",
     "proxy"
+  ],
+  "files": [
+    "lib",
+    "demo",
+    "index.d.ts"
   ],
   "author": "zman",
   "license": "MIT",
